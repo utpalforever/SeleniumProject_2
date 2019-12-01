@@ -13,6 +13,7 @@ public class ArrayListConcepts {
 		
 		//ArrayList<Boolean> ar2 = new ArrayList();
 		
+		System.out.println("modifying for git");
 		ar1.add(1);
 		
 		ar1.add(2);
@@ -39,4 +40,8 @@ public class ArrayListConcepts {
 
 	}
 
+	public void gitstatus() {
+		
+		System.out.println("check git  ");
+	}
 }

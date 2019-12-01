@@ -44,5 +44,7 @@ public class ArrayListConcepts {
 	public void gitstatus() {
 		
 		System.out.println("check git  ");
+		
+		System.out.println("checking git pull ");
 	}
 }

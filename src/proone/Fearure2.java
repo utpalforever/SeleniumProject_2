@@ -6,6 +6,10 @@ public class Fearure2 {
 		System.out.println("feature2");
 		
 		///f1
+		
+		
+		
+		//sdsd
 	}
 	public static void main(String[] args) {
 

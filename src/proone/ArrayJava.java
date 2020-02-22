@@ -13,7 +13,7 @@ public class ArrayJava {
 		String s2 = new String();
 		s2 = "Sita";
 		String s3 = "ShriRam";
-		//pushing in feature1 sbAJSD
+		//pushing in feature1
 
 		int[] i1 = { 1, 2, 3, 4, 5 };
 		char c1[] = { 'a', 'b', 'c' };

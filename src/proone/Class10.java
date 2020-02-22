@@ -8,7 +8,7 @@ public class Class10 {
 		
 		int b=045;
 		System.out.println(b);
-		// checking 
+		// checking f2
 
 	}
 

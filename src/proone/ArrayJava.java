@@ -13,7 +13,7 @@ public class ArrayJava {
 		String s2 = new String();
 		s2 = "Sita";
 		String s3 = "ShriRam";
-//fearure 1
+
 		int[] i1 = { 1, 2, 3, 4, 5 };
 		char c1[] = { 'a', 'b', 'c' };
 		float f2[] = { 2.1f, 3.1f, 4.3f, 3 };//

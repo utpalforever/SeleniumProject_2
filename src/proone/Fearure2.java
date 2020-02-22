@@ -10,6 +10,8 @@ public class Fearure2 {
 System.out.println("Feature2");
 f1();
 
+//feature2
+
 	}
 
 }

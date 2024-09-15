@@ -23,7 +23,6 @@ public class ArrayJava {
 		System.out.println(s2.length());
 		System.out.println(a.length);
 
-		
 	}
 
 }
